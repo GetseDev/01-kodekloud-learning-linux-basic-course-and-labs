@@ -41,3 +41,25 @@
 ##  DPKG and APT
 
 ##  APT vs APT-GET
+
+# 04 Working with Shell - II
+
+## Behind Schedule
+
+## File compression and archival
+
+## Searching for files and pattern
+
+## IO Redirection
+
+## Vi Editor
+
+# 05 Networking
+
+## The Network Issue
+
+## DNS
+
+## networking Basic
+
+## Troubleshooting
